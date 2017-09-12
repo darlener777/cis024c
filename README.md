@@ -1,2 +1,2 @@
-# fall2017hw
+# cis024c 
 Homework Assignments Fall 2017
