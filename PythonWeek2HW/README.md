@@ -1,2 +1,1 @@
-Darlene Rodriguez
-CIS24C Python Programming 
+CIS-024-C Python Programming 
